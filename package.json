@@ -1,0 +1,21 @@
+{
+  "name": "hapi-simple",
+  "version": "1.0.0",
+  "description": "A basic hapi server to test a few things",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "good": "4.x.x",
+    "good-console": "2.x.x",
+    "hapi": "7.x.x",
+    "hapi-plugin-mysql": "^5.0.0",
+    "inert": "^4.2.0",
+    "lout": "^10.0.1",
+    "mysql": "^2.13.0",
+    "vision": "^4.1.1"
+  }
+}
